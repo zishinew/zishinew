@@ -1,6 +1,6 @@
 # Hi 👋, I'm Zishine
 
-### Game art designer and aspiring developer
+### Math/BBA Student @University of Waterloo / Wilfrid Laurier University
 
 - 🌱 I'm currently learning **HTML, CSS, JavaScript and Python**
 
