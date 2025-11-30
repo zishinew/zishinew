@@ -1,18 +1,43 @@
-# Hi 👋, I'm Zishine
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zishine!+👋;Math+%2F+BBA+Student;Aspiring+Software+Engineer;Building+with+Python+%26+AI" alt="Typing SVG" />
+</div>
 
-### Math/BBA Student @University of Waterloo / Wilfrid Laurier University
+<div align="center">
+  <h3>🎓 University of Waterloo | Wilfrid Laurier University</h3>
+  <p><i>BMath (Honours Mathematics) & BBA (Honours Business Administration) Double Degree</i></p>
+</div>
 
-- 🌱 I'm currently learning **HTML, CSS, JavaScript and Python**
+---
 
-- 📫 How to reach me **wzishine@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/zishinew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zishinew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zishine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zishine" height="30" width="40" /></a>
-<a href="https://youtube.com/zshyne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zshyne" height="30" width="40" /></a>
-</p>
+I'm a Math & Business student, and a former game art designer with a following of 11k+ and 1M+ impressions on YouTube, with a newfound passion for code. While I am early into my coding journey, I approach coding with the same mindset I used for art: **create, fail, learn, repeat**. To elaborate on this, I believe the best way to learn is by doing, so I’m currently focused on shipping projects, making necessary mistakes, and learning best practices along the way.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+- 🔭 I’m currently working on **AI-powered web applications**.
+- 🌱 I’m currently learning **Algorithms & Full Stack Development**.
+- 💼 I'm actively looking for **Software Engineering Internships**.
+- 🎨 I bring a designer's eye to engineering problems.
+- 📫 How to reach me: **wzishine@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Languages** | **Frameworks & Tools** | **Data & AI** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,html,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
+
+</div>
+
+
+---
+
+<div align="center">
+  <h3>🤝 Connect with me</h3>
+  <a href="https://linkedin.com/in/zishine" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/zishinew" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:wzishine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
