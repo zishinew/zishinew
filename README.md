@@ -15,7 +15,7 @@ I'm a Math & Business student, and a former **game art designer** with a followi
 
 - 🔭 I’m currently working on **AI-powered web applications**.
 - 🌱 I’m currently learning **Algorithms & Full Stack Development**.
-- 💼 I'm actively looking for **Software Engineering Internships**.
+- 💼 I'm actively looking for **Software Engineering Internships (Summer 2026)**.
 - 🎨 I bring a designer's eye to engineering problems.
 - 📫 How to reach me: **wzishine@gmail.com**
 
