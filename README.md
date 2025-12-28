@@ -27,7 +27,7 @@ I'm a Math & Business student, and a former **game art designer** with a followi
 
 | **Languages** | **Frameworks & Tools** | **Data & AI** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,html,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| <img src="https://skillicons.dev/icons?i=python,html,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode," /> | <img src="https://skillicons.dev/icons?i=mysql,sklearn" /> |
 
 </div>
 
