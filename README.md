@@ -27,7 +27,7 @@ I'm a Math student at UWaterloo, and a **game art designer** with a following of
 
 | **Languages** | **Frameworks & Tools** | **Data & AI** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,html,css,js" /> | <img src="https://skillicons.dev/icons?i=github,vscode" /> | <img src="https://skillicons.dev/icons?i=mysql,sklearn" /> |
+| <img src="https://skillicons.dev/icons?i=python,html,css,js,c" /> | <img src="https://skillicons.dev/icons?i=github,vscode" /> | <img src="https://skillicons.dev/icons?i=mysql,sklearn." /> |
 
 </div>
 
