@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <h3>🎓 University of Waterloo | Wilfrid Laurier University</h3>
-  <p><i>BMath (Honours Mathematics) & BBA (Honours Business Administration) Double Degree</i></p>
+  <h3>🎓 University of Waterloo</h3>
+  <p><i>BMath (Honours Mathematics)</i></p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Math & Business student, and a former **game art designer** with a following of **11k+ and 1M+ impressions** on YouTube, with a newfound passion for code. While I am early into my coding journey, I approach coding with the same mindset I used for art: **create, fail, learn, repeat**. To elaborate on this, I believe the best way to learn is by doing, so I’m currently focused on shipping projects, making necessary mistakes, and learning best practices along the way.
+I'm a Math student at UWaterloo, and a **game art designer** with a following of **11k+ and 1M+ impressions** on YouTube, with a newfound passion for code. While I am early into my coding journey, I approach coding with the same mindset I used for art: **create, fail, learn, repeat**. To elaborate on this, I believe the best way to learn is by doing, so I’m currently focused on shipping projects, making necessary mistakes, and learning best practices along the way.
 
 - 🔭 I’m currently working on **AI-powered web applications**.
 - 🌱 I’m currently learning **Algorithms & Full Stack Development**.
