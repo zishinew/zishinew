@@ -13,12 +13,6 @@
 
 I'm a Math student at UWaterloo, and a **game art designer** with a following of **11k+ and 1M+ impressions** on YouTube, with a newfound passion for code.
 
-- 🔭 I’m currently working on **AI-powered web applications**.
-- 🌱 I’m currently learning **Algorithms & Full Stack Development**.
-- 💼 I'm actively looking for **Software Engineering Internships (Summer 2026)**.
-- 🎨 I bring a designer's eye to engineering problems.
-- 📫 How to reach me: **wzishine@gmail.com**
-
 ---
 
 ### 🛠️ Tech Stack
