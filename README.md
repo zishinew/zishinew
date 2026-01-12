@@ -4,7 +4,7 @@
 
 **math student @ university of waterloo**  
 game art designer • 11k+ youtube • 1m+ impressions
-
+**<a href="https://zishinew.com"><visit my portfolio/></a>**
 ---
 
 ### tech stack
