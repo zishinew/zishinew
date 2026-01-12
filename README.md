@@ -19,6 +19,9 @@ game art designer • 11k+ youtube • 1m+ impressions
 
 ### connect
 
-[portfolio](https://zishinew.com) • [linkedin](https://linkedin.com/in/zishine) • [github](https://github.com/zishinew) • [email](mailto:wzishine@gmail.com)
+<a href="https://zishinew.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+<a href="https://linkedin.com/in/zishine"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://github.com/zishinew"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="mailto:wzishine@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
 </div>
